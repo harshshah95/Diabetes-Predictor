@@ -1,4 +1,4 @@
-# diabetes_prediction
+# diabetes Predictor
 Preview of the Project
 
 
